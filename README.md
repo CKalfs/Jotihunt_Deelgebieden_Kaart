@@ -10,3 +10,11 @@ de logger starten en daarna in een andere cmd
 ruby MQTT-Publisher.rb
 
 of dubbelklikken op de files, maar dan kun je de error's niet zien als hij crashed
+
+
+
+# Jotihunt relay bot for telegram
+Free BOT Automatically forward messages from Channels, Users and Groups (private or public) https://t.me/Auto_Forward_Messages_Bot
+
+
+Deze doorgeef-bot doet uit de jotihunt-bot alle berichten doorsturen naar het relay kanaal
