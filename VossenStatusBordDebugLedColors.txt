@@ -1,0 +1,8 @@
+Alpha		Bravo		Delta		Echo		Foxtrot			Means:
+off			off			off			off			off				Failed to 'boot'
+Red			off			off			off			off				Attempting to connect to WiFi network
+Orange		off			off			off			off				Requesting user to input new SSID
+off			Orange		off			off			off				Requesting user to input new Password
+Green		off			Red			off			off				WiFi connected; attempting to connect MQTT
+Green		off			Green		off			off				WiFi connected; MQTT connected
+Green		off			GReen		off			Green			Setup Complete

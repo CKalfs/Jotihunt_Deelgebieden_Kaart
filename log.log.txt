@@ -1,0 +1,723 @@
+[16/10/2021 14:34:35] [MrFire/Vossen/Delta2] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Foxtrot] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Delta] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Charlie] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Echo] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Echo2] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Bravo] groen
+[16/10/2021 14:34:35] [MrFire/RC/B] 1
+[16/10/2021 14:34:35] [MrFire/RC/C] 1
+[16/10/2021 14:34:35] [MrFire/RC/D] 0
+[16/10/2021 14:34:35] [MrFire/Vossen/Alpha] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 14:34:35] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 14:34:35] [MrFire/RC/A] 0
+[16/10/2021 14:34:35] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 14:39:25] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 103   
+[16/10/2021 14:42:29] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 106   
+[16/10/2021 14:44:32] [MrFire/Vossen/Echo2] groen
+[16/10/2021 14:44:32] [MrFire/16Seg/Scroll]  ECHO2 IS rood   ONZE SCORE IS NU: 111   
+[16/10/2021 14:47:36] [MrFire/16Seg/Input] SCORE:111
+[16/10/2021 14:50:39] [MrFire/16Seg/Clock] 1
+[16/10/2021 14:59:25] [MrFire/Vossen/Delta2] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Foxtrot] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Delta] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Charlie] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Echo] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Echo2] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Bravo] groen
+[16/10/2021 14:59:25] [MrFire/RC/B] 1
+[16/10/2021 14:59:25] [MrFire/RC/C] 1
+[16/10/2021 14:59:25] [MrFire/RC/D] 0
+[16/10/2021 14:59:25] [MrFire/Vossen/Alpha] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 14:59:25] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 14:59:25] [MrFire/RC/A] 0
+[16/10/2021 14:59:25] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Alpha] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Bravo] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Charlie] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Delta] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Delta2] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Echo] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Echo2] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Foxtrot] groen
+[16/10/2021 14:59:49] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 14:59:49] [MrFire/16Seg/Scroll]  ALPHA IS groen   ALPHA2 IS groen   BRAVO IS groen   BRAVO2 IS groen   CHARLIE IS groen   CHARLIE2 IS groen   DELTA IS groen   DELTA2 IS groen   ECHO IS groen   ECHO2 IS rood   FOXTROT IS groen   FOXTROT2 IS groen   ONZE SCORE IS NU: 000   NIEUWE OPDRACHT:Rubik's Piocube   NIEUWS:Pietertje brengt punten rond   
+[16/10/2021 15:00:50] [MrFire/Vossen/Alpha] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Bravo] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Charlie] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Delta] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Delta2] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Echo] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Echo2] rood
+[16/10/2021 15:00:51] [MrFire/Vossen/Foxtrot] groen
+[16/10/2021 15:00:51] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 15:00:51] [MrFire/16Seg/Scroll]  ALPHA IS groen   ALPHA2 IS groen   BRAVO IS groen   BRAVO2 IS groen   CHARLIE IS groen   CHARLIE2 IS groen   DELTA IS groen   DELTA2 IS groen   ECHO IS groen   ECHO2 IS rood   FOXTROT IS groen   FOXTROT2 IS groen   ONZE SCORE IS NU: 000   NIEUWE OPDRACHT:Goallll   NIEUWS:Pietertje brengt punten rond   
+[16/10/2021 15:01:51] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 111   
+[16/10/2021 15:03:54] [MrFire/16Seg/Scroll]  NIEUWS:Happy picture hour!   
+[16/10/2021 15:06:57] [MrFire/16Seg/Input] SCORE:111
+[16/10/2021 15:10:00] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 114   
+[16/10/2021 15:13:03] [MrFire/16Seg/Input] SCORE:114
+[16/10/2021 15:14:04] [MrFire/Vossen/Echo] rood
+[16/10/2021 15:14:04] [MrFire/16Seg/Scroll]  ECHO IS rood   ONZE SCORE IS NU: 117   
+[16/10/2021 15:15:05] [MrFire/Vossen/Echo2] groen
+[16/10/2021 15:15:05] [MrFire/16Seg/Scroll]  ECHO2 IS groen   ONZE SCORE IS NU: 121   
+[16/10/2021 15:18:08] [MrFire/16Seg/Input] SCORE:121
+[16/10/2021 15:21:11] [MrFire/16Seg/Clock] 1
+[16/10/2021 15:22:12] [MrFire/Vossen/Alpha] oranje
+[16/10/2021 15:22:13] [MrFire/16Seg/Scroll]  ALPHA IS oranje   
+[16/10/2021 15:25:15] [MrFire/16Seg/Input] SCORE:121
+[16/10/2021 15:28:19] [MrFire/16Seg/Clock] 1
+[16/10/2021 15:28:37] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 15:30:23] [MrFire/Vossen/Delta2] oranje
+[16/10/2021 15:30:23] [MrFire/16Seg/Scroll]  DELTA2 IS oranje   
+[16/10/2021 15:33:29] [MrFire/16Seg/Input] SCORE:121
+[16/10/2021 15:35:35] [MrFire/Vossen/Alpha] groen
+[16/10/2021 15:35:35] [MrFire/16Seg/Scroll]  ALPHA IS groen   
+[16/10/2021 15:38:44] [MrFire/Vossen/Bravo2] oranje
+[16/10/2021 15:38:45] [MrFire/16Seg/Scroll]  BRAVO2 IS oranje   
+[16/10/2021 15:39:50] [MrFire/Vossen/Charlie2] rood
+[16/10/2021 15:39:50] [MrFire/16Seg/Scroll]  CHARLIE2 IS rood   
+[16/10/2021 15:42:56] [MrFire/Vossen/Foxtrot] rood
+[16/10/2021 15:42:56] [MrFire/16Seg/Scroll]  FOXTROT IS rood   
+[16/10/2021 15:43:58] [MrFire/Vossen/Delta2] groen
+[16/10/2021 15:43:58] [MrFire/16Seg/Scroll]  DELTA2 IS groen   
+[16/10/2021 15:44:59] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 15:44:59] [MrFire/16Seg/Scroll]  BRAVO2 IS groen   
+[16/10/2021 15:48:14] [MrFire/Vossen/Echo] groen
+[16/10/2021 15:48:14] [MrFire/16Seg/Scroll]  ECHO IS groen   
+[16/10/2021 15:48:58] [MrFire/Vossen/Alpha] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Bravo] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Charlie] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Charlie2] rood
+[16/10/2021 15:48:58] [MrFire/Vossen/Delta] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Delta2] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Echo] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Echo2] groen
+[16/10/2021 15:48:58] [MrFire/Vossen/Foxtrot] rood
+[16/10/2021 15:48:58] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 15:48:59] [MrFire/16Seg/Scroll]  ALPHA IS groen   ALPHA2 IS groen   BRAVO IS groen   BRAVO2 IS groen   CHARLIE IS groen   CHARLIE2 IS rood   DELTA IS groen   DELTA2 IS groen   ECHO IS groen   ECHO2 IS groen   FOXTROT IS rood   FOXTROT2 IS groen   ONZE SCORE IS NU: 155   NIEUWE OPDRACHT:Goallll   NIEUWS:Happy picture hour!   
+[16/10/2021 15:49:59] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 15:51:01] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 15:52:03] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   NIEUWE OPDRACHT:To do:   
+[16/10/2021 15:53:33] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 15:54:43] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 15:55:46] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 15:56:47] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 15:57:50] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 15:58:52] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 15:59:53] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 16:00:54] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:01:55] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 16:02:57] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:03:57] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   NIEUWS:une picture, two pictures drie plaatjes   
+[16/10/2021 16:04:59] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:06:02] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 16:07:04] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:08:06] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 16:09:07] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:10:10] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 16:10:10] [MrFire/16Seg/Scroll]  CHARLIE2 IS groen   ONZE SCORE IS NU: 155   
+[16/10/2021 16:11:10] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:12:13] [MrFire/Vossen/Bravo] rood
+[16/10/2021 16:12:13] [MrFire/16Seg/Scroll]  BRAVO IS rood   ONZE SCORE IS NU: 155   
+[16/10/2021 16:13:14] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:13:24] [MrFire/Vossen/Alpha] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Bravo] rood
+[16/10/2021 16:13:24] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Charlie] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Delta] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Delta2] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Echo] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Echo2] groen
+[16/10/2021 16:13:24] [MrFire/Vossen/Foxtrot] rood
+[16/10/2021 16:13:24] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 16:13:24] [MrFire/16Seg/Scroll]  ALPHA IS groen   ALPHA2 IS groen   BRAVO IS rood   BRAVO2 IS groen   CHARLIE IS groen   CHARLIE2 IS groen   DELTA IS groen   DELTA2 IS groen   ECHO IS groen   ECHO2 IS groen   FOXTROT IS rood   FOXTROT2 IS groen   ONZE SCORE IS NU: 155   NIEUWE OPDRACHT:To do:   NIEUWS:une picture, two pictures drie plaatjes   
+[16/10/2021 16:14:25] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:15:26] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 16:16:27] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:17:29] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 155   
+[16/10/2021 16:18:31] [MrFire/16Seg/Scroll]  ONZE SCORE IS NU: 000   
+[16/10/2021 16:18:43] [MrFire/Vossen/Alpha] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Bravo] rood
+[16/10/2021 16:18:43] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Charlie] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Delta] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Delta2] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Echo] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Echo2] groen
+[16/10/2021 16:18:43] [MrFire/Vossen/Foxtrot] rood
+[16/10/2021 16:18:43] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 16:18:43] [MrFire/16Seg/Scroll]  ALPHA IS groen   ALPHA2 IS groen   BRAVO IS rood   BRAVO2 IS groen   CHARLIE IS groen   CHARLIE2 IS groen   DELTA IS groen   DELTA2 IS groen   ECHO IS groen   ECHO2 IS groen   FOXTROT IS rood   FOXTROT2 IS groen   ONZE SCORE IS NU: 155   NIEUWE OPDRACHT:To do:   NIEUWS:une picture, two pictures drie plaatjes   
+[16/10/2021 16:21:47] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 16:24:53] [MrFire/16Seg/Clock] 1
+[16/10/2021 16:34:12] [MrFire/Vossen/Foxtrot2] oranje
+[16/10/2021 16:34:12] [MrFire/16Seg/Scroll]  FOXTROT2 IS oranje   
+[16/10/2021 16:37:18] [MrFire/Vossen/Bravo] groen
+[16/10/2021 16:37:18] [MrFire/16Seg/Scroll]  BRAVO IS groen   
+[16/10/2021 16:40:24] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 16:43:30] [MrFire/16Seg/Clock] 1
+[16/10/2021 16:44:31] [MrFire/Vossen/Foxtrot] groen
+[16/10/2021 16:44:31] [MrFire/16Seg/Scroll]  FOXTROT IS groen   
+[16/10/2021 16:45:35] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 16:45:35] [MrFire/16Seg/Scroll]  FOXTROT2 IS groen   
+[16/10/2021 16:48:43] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 16:50:37] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 16:51:47] [MrFire/16Seg/Clock] 1
+[16/10/2021 16:52:24] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 16:53:08] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 16:53:38] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 17:01:57] [MrFire/16Seg/Scroll]  NIEUWE OPDRACHT:I love it when a plan comes together   
+[16/10/2021 17:06:01] [MrFire/16Seg/Scroll]  NIEUWS:5 uurtje   
+[16/10/2021 17:10:51] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 17:12:52] [MrFire/Vossen/Bravo2] oranje
+[16/10/2021 17:12:52] [MrFire/16Seg/Scroll]  BRAVO2 IS oranje   
+[16/10/2021 17:16:05] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 17:19:09] [MrFire/16Seg/Clock] 1
+[16/10/2021 17:21:11] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 17:21:11] [MrFire/16Seg/Scroll]  BRAVO2 IS groen   
+[16/10/2021 17:24:14] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 17:27:17] [MrFire/16Seg/Clock] 1
+[16/10/2021 18:00:03] [MrFire/16Seg/Scroll]  NIEUWE OPDRACHT:PAC je boodschappen   
+[16/10/2021 18:04:10] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 18:08:27] [MrFire/16Seg/Clock] 1
+[16/10/2021 18:15:21] [MrFire/16Seg/Scroll]  NIEUWS:Hungry foxes, beware of the foxes   
+[16/10/2021 18:18:24] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 18:21:27] [MrFire/16Seg/Clock] 1
+[16/10/2021 18:37:45] [MrFire/16Seg/Scroll]  NIEUWS:Arcade Deluxe   
+[16/10/2021 18:40:48] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 18:43:51] [MrFire/16Seg/Clock] 1
+[16/10/2021 18:44:02] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 18:46:56] [MrFire/16Seg/Scroll]  NIEUWS:Extra opening webshop voor nabestellingen   
+[16/10/2021 18:49:59] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 18:53:09] [MrFire/16Seg/Clock] 1
+[16/10/2021 18:55:11] [MrFire/16Seg/Scroll]  NIEUWE OPDRACHT:Jotihunt at the movies   
+[16/10/2021 18:58:15] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 19:00:18] [MrFire/16Seg/Scroll]  NIEUWE OPDRACHT:TOUPE COUPE   
+[16/10/2021 19:03:22] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 19:04:24] [MrFire/Vossen/Alpha2] rood
+[16/10/2021 19:04:24] [MrFire/16Seg/Scroll]  ALPHA2 IS rood   
+[16/10/2021 19:05:30] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 19:05:49] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 19:06:26] [MrFire/16Seg/Scroll]  NIEUWS:HQ moet ook even bijtanken   
+[16/10/2021 19:06:34] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 19:09:29] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 19:12:33] [MrFire/16Seg/Clock] 1
+[16/10/2021 19:15:36] [MrFire/16Seg/Scroll]  NIEUWS:No fox were given   
+[16/10/2021 19:17:38] [MrFire/Vossen/Charlie] oranje
+[16/10/2021 19:17:38] [MrFire/16Seg/Scroll]  CHARLIE IS oranje   
+[16/10/2021 19:19:44] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 19:20:05] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 19:20:41] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 19:20:50] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 19:23:45] [MrFire/Vossen/Charlie] groen
+[16/10/2021 19:23:45] [MrFire/16Seg/Scroll]  CHARLIE IS groen   
+[16/10/2021 19:26:49] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 19:29:54] [MrFire/Vossen/Alpha] oranje
+[16/10/2021 19:29:54] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 19:29:54] [MrFire/16Seg/Scroll]  ALPHA IS oranje   ALPHA2 IS groen   
+[16/10/2021 19:32:58] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 19:36:01] [MrFire/16Seg/Clock] 1
+[16/10/2021 19:38:05] [MrFire/Vossen/Alpha] groen
+[16/10/2021 19:38:05] [MrFire/16Seg/Scroll]  ALPHA IS groen   
+[16/10/2021 19:41:08] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 19:44:13] [MrFire/16Seg/Clock] 1
+[16/10/2021 19:44:30] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 19:51:30] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 19:52:24] [MrFire/Vossen/Charlie2] oranje
+[16/10/2021 19:52:24] [MrFire/16Seg/Scroll]  CHARLIE2 IS oranje   
+[16/10/2021 19:53:47] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 19:55:28] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 19:58:36] [MrFire/16Seg/Clock] 1
+[16/10/2021 20:00:27] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 20:03:12] [MrFire/Vossen/Bravo2] oranje
+[16/10/2021 20:03:12] [MrFire/16Seg/Scroll]  BRAVO2 IS oranje   
+[16/10/2021 20:06:20] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 20:06:20] [MrFire/16Seg/Scroll]  CHARLIE2 IS groen   
+[16/10/2021 20:07:22] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 20:07:22] [MrFire/16Seg/Scroll]  BRAVO2 IS groen   
+[16/10/2021 20:10:26] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 20:10:51] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 20:13:30] [MrFire/16Seg/Scroll]  NIEUWE OPDRACHT:Medisch Centrum AAAAAA   
+[16/10/2021 20:15:32] [MrFire/16Seg/Scroll]  NIEUWS:It takes 6 foxes to foxtrot   
+[16/10/2021 20:17:34] [MrFire/Vossen/Delta] oranje
+[16/10/2021 20:17:34] [MrFire/16Seg/Scroll]  DELTA IS oranje   
+[16/10/2021 20:20:38] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 20:23:42] [MrFire/16Seg/Clock] 1
+[16/10/2021 20:26:45] [MrFire/Vossen/Delta2] rood
+[16/10/2021 20:26:45] [MrFire/16Seg/Scroll]  DELTA2 IS rood   
+[16/10/2021 20:29:49] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 20:32:53] [MrFire/Vossen/Delta] groen
+[16/10/2021 20:32:53] [MrFire/16Seg/Scroll]  DELTA IS groen   
+[16/10/2021 20:35:58] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 20:39:03] [MrFire/16Seg/Clock] 1
+[16/10/2021 20:48:22] [MrFire/Vossen/Delta2] groen
+[16/10/2021 20:48:22] [MrFire/16Seg/Scroll]  DELTA2 IS groen   
+[16/10/2021 20:50:24] [MrFire/Vossen/Foxtrot2] rood
+[16/10/2021 20:50:24] [MrFire/16Seg/Scroll]  FOXTROT2 IS rood   
+[16/10/2021 20:53:31] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 20:56:34] [MrFire/16Seg/Clock] 1
+[16/10/2021 21:01:22] [MrFire/16Seg/Scroll]  NIEUWE OPDRACHT:Battle of de blikjes   
+[16/10/2021 21:03:23] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 21:03:44] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 21:03:59] [MrFire/Vossen/Alpha] oranje
+[16/10/2021 21:04:05] [MrFire/Vossen/Bravo2] rood
+[16/10/2021 21:04:22] [MrFire/Vossen/Alpha] groen
+[16/10/2021 21:04:28] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 21:06:41] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 21:10:34] [MrFire/Vossen/Bravo2] rood
+[16/10/2021 21:10:34] [MrFire/16Seg/Scroll]  BRAVO2 IS rood   
+[16/10/2021 21:16:05] [MrFire/Vossen/Echo] oranje
+[16/10/2021 21:16:05] [MrFire/16Seg/Scroll]  ECHO IS oranje   NIEUWS:What does the fox say? pictionairy   
+[16/10/2021 21:19:25] [MrFire/Vossen/Delta] oranje
+[16/10/2021 21:19:25] [MrFire/16Seg/Scroll]  DELTA IS oranje   
+[16/10/2021 21:22:45] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 21:24:51] [MrFire/Vossen/Echo] groen
+[16/10/2021 21:24:51] [MrFire/16Seg/Scroll]  ECHO IS groen   
+[16/10/2021 21:25:08] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 21:25:52] [MrFire/16Seg/Scroll]  NIEUWS:Etherdiscipline   
+[16/10/2021 21:26:37] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 21:27:07] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 21:28:55] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 21:29:56] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 21:29:56] [MrFire/16Seg/Scroll]  FOXTROT2 IS groen   
+[16/10/2021 21:30:12] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 21:31:26] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 21:31:33] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 21:33:01] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 21:36:05] [MrFire/Vossen/Delta] groen
+[16/10/2021 21:36:05] [MrFire/16Seg/Scroll]  DELTA IS groen   
+[16/10/2021 21:38:48] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 21:39:08] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 21:40:11] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 21:40:17] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 21:42:11] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 21:42:13] [MrFire/16Seg/Clock] 1
+[16/10/2021 21:50:24] [MrFire/Vossen/Alpha] oranje
+[16/10/2021 21:50:25] [MrFire/16Seg/Scroll]  ALPHA IS oranje   
+[16/10/2021 21:51:25] [MrFire/Vossen/Alpha] groen
+[16/10/2021 21:51:26] [MrFire/16Seg/Scroll]  ALPHA IS groen   
+[16/10/2021 21:54:31] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 21:57:34] [MrFire/16Seg/Clock] 1
+[16/10/2021 21:59:36] [MrFire/Vossen/Bravo] oranje
+[16/10/2021 21:59:36] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 21:59:36] [MrFire/16Seg/Scroll]  BRAVO IS oranje   BRAVO2 IS groen   
+[16/10/2021 22:00:38] [MrFire/16Seg/Scroll]  NIEUWE OPDRACHT:MINI moppentrommel   
+[16/10/2021 22:03:56] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 22:04:38] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 22:06:06] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 22:07:00] [MrFire/16Seg/Clock] 1
+[16/10/2021 22:08:11] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 22:08:17] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 22:09:02] [MrFire/Vossen/Echo] oranje
+[16/10/2021 22:09:02] [MrFire/16Seg/Scroll]  ECHO IS oranje   
+[16/10/2021 22:12:08] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 22:13:09] [MrFire/Vossen/Echo2] oranje
+[16/10/2021 22:13:09] [MrFire/16Seg/Scroll]  ECHO2 IS oranje   
+[16/10/2021 22:13:34] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 22:14:22] [MrFire/16Seg/Startup] Wemos Reconnected
+[16/10/2021 22:14:31] [MrFire/Vossen/Startup] Wemos Online
+[16/10/2021 22:15:12] [MrFire/16Seg/Scroll]  NIEUWS:foto fox frenzy   
+[16/10/2021 22:17:16] [MrFire/Vossen/Echo2] groen
+[16/10/2021 22:17:16] [MrFire/16Seg/Scroll]  ECHO2 IS groen   
+[16/10/2021 22:19:20] [MrFire/Vossen/Foxtrot] oranje
+[16/10/2021 22:19:20] [MrFire/16Seg/Scroll]  FOXTROT IS oranje   
+[16/10/2021 22:22:29] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 22:25:53] [MrFire/16Seg/Clock] 1
+[16/10/2021 22:27:31] [MrFire/16Seg/Scroll]  NIEUWS:Be prepared voor de laatste hint   
+[16/10/2021 22:28:55] [MrFire/Vossen/Echo] groen
+[16/10/2021 22:28:55] [MrFire/16Seg/Scroll]  ECHO IS groen   
+[16/10/2021 22:30:03] [MrFire/16Seg/Scroll]  NIEUWS:De laatste lachjes, zet 'm op!   
+[16/10/2021 22:32:39] [MrFire/Vossen/Bravo] groen
+[16/10/2021 22:32:39] [MrFire/16Seg/Scroll]  BRAVO IS groen   
+[16/10/2021 23:03:48] [MrFire/Vossen/Delta2] groen
+[16/10/2021 23:03:48] [MrFire/Vossen/Foxtrot] oranje
+[16/10/2021 23:03:48] [MrFire/Vossen/Delta] groen
+[16/10/2021 23:03:48] [MrFire/Vossen/Charlie] groen
+[16/10/2021 23:03:48] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 23:03:48] [MrFire/Vossen/Echo] groen
+[16/10/2021 23:03:48] [MrFire/Vossen/Echo2] groen
+[16/10/2021 23:03:48] [MrFire/Vossen/Bravo] groen
+[16/10/2021 23:03:48] [MrFire/RC/B] 1
+[16/10/2021 23:03:48] [MrFire/RC/C] 1
+[16/10/2021 23:03:48] [MrFire/RC/D] 0
+[16/10/2021 23:03:48] [MrFire/Vossen/Alpha] groen
+[16/10/2021 23:03:48] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 23:03:48] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 23:03:48] [MrFire/RC/A] 0
+[16/10/2021 23:03:48] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 23:05:19] [MrFire/16Seg/Clock] 0
+[16/10/2021 23:05:21] [MrFire/16Seg/Clock] 1
+[16/10/2021 23:12:28] [MrFire/Vossen/Delta2] groen
+[16/10/2021 23:12:28] [MrFire/Vossen/Foxtrot] oranje
+[16/10/2021 23:12:28] [MrFire/Vossen/Delta] groen
+[16/10/2021 23:12:28] [MrFire/Vossen/Charlie] groen
+[16/10/2021 23:12:28] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 23:12:28] [MrFire/Vossen/Echo] groen
+[16/10/2021 23:12:28] [MrFire/Vossen/Echo2] groen
+[16/10/2021 23:12:28] [MrFire/Vossen/Bravo] groen
+[16/10/2021 23:12:28] [MrFire/RC/B] 1
+[16/10/2021 23:12:28] [MrFire/RC/C] 1
+[16/10/2021 23:12:28] [MrFire/RC/D] 0
+[16/10/2021 23:12:28] [MrFire/Vossen/Alpha] groen
+[16/10/2021 23:12:28] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 23:12:28] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 23:12:28] [MrFire/RC/A] 0
+[16/10/2021 23:12:28] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Alpha] rood
+[16/10/2021 23:13:15] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Bravo] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Charlie] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Delta] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Delta2] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Echo] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Echo2] groen
+[16/10/2021 23:13:15] [MrFire/Vossen/Foxtrot] oranje
+[16/10/2021 23:13:15] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 23:13:15] [MrFire/16Seg/Scroll]  ALPHA IS rood   ALPHA2 IS groen   BRAVO IS groen   BRAVO2 IS groen   CHARLIE IS groen   CHARLIE2 IS groen   DELTA IS groen   DELTA2 IS groen   ECHO IS groen   ECHO2 IS groen   FOXTROT IS oranje   FOXTROT2 IS groen   ONZE SCORE IS NU: 155   NIEUWE OPDRACHT:Tekenfilm Toetje   NIEUWS:De laatste lachjes, zet 'm op!   
+[16/10/2021 23:40:14] [MrFire/Vossen/Alpha] rood
+[16/10/2021 23:40:14] [MrFire/Vossen/Alpha2] groen
+[16/10/2021 23:40:14] [MrFire/Vossen/Bravo] rood
+[16/10/2021 23:40:14] [MrFire/Vossen/Bravo2] groen
+[16/10/2021 23:40:15] [MrFire/Vossen/Charlie] rood
+[16/10/2021 23:40:15] [MrFire/Vossen/Charlie2] groen
+[16/10/2021 23:40:15] [MrFire/Vossen/Delta] rood
+[16/10/2021 23:40:15] [MrFire/Vossen/Delta2] groen
+[16/10/2021 23:40:15] [MrFire/Vossen/Echo] rood
+[16/10/2021 23:40:15] [MrFire/Vossen/Echo2] groen
+[16/10/2021 23:40:15] [MrFire/Vossen/Foxtrot] rood
+[16/10/2021 23:40:15] [MrFire/Vossen/Foxtrot2] groen
+[16/10/2021 23:40:15] [MrFire/16Seg/Scroll]  ALPHA IS rood   ALPHA2 IS groen   BRAVO IS rood   BRAVO2 IS groen   CHARLIE IS rood   CHARLIE2 IS groen   DELTA IS rood   DELTA2 IS groen   ECHO IS rood   ECHO2 IS groen   FOXTROT IS rood   FOXTROT2 IS groen   ONZE SCORE IS NU: 155   NIEUWE OPDRACHT:Tekenfilm Toetje   NIEUWS:De laatste lachjes, zet 'm op!   
+[16/10/2021 23:43:18] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 23:46:23] [MrFire/16Seg/Clock] 1
+[16/10/2021 23:51:28] [MrFire/16Seg/Scroll]  NIEUWS:Prijsuitreiking op zondag   
+[16/10/2021 23:54:32] [MrFire/16Seg/Input] SCORE:155
+[16/10/2021 23:57:35] [MrFire/16Seg/Clock] 1
+[17/10/2021 00:04:43] [MrFire/Vossen/Alpha2] rood
+[17/10/2021 00:04:43] [MrFire/16Seg/Scroll]  ALPHA2 IS rood   
+[17/10/2021 00:05:44] [MrFire/Vossen/Bravo2] rood
+[17/10/2021 00:05:44] [MrFire/Vossen/Charlie2] rood
+[17/10/2021 00:05:44] [MrFire/Vossen/Delta2] rood
+[17/10/2021 00:05:44] [MrFire/Vossen/Echo2] rood
+[17/10/2021 00:05:44] [MrFire/Vossen/Foxtrot2] rood
+[17/10/2021 00:05:44] [MrFire/16Seg/Scroll]  BRAVO2 IS rood   CHARLIE2 IS rood   DELTA2 IS rood   ECHO2 IS rood   FOXTROT2 IS rood   
+[17/10/2021 00:08:47] [MrFire/16Seg/Input] SCORE:155
+[17/10/2021 00:11:50] [MrFire/16Seg/Clock] 1
+[13/10/2022 22:24:40] [MrFire/Vossen/Alpha] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Alpha2] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Bravo] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Bravo2] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Charlie] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Charlie2] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Delta] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Delta2] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Echo] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Echo2] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Foxtrot] red
+[13/10/2022 22:24:41] [MrFire/Vossen/Foxtrot2] red
+[13/10/2022 22:24:41] [MrFire/16Seg/Scroll]  ALPHA IS red   ALPHA2 IS red   BRAVO IS red   BRAVO2 IS red   CHARLIE IS red   CHARLIE2 IS red   DELTA IS red   DELTA2 IS red   ECHO IS red   ECHO2 IS red   FOXTROT IS red   FOXTROT2 IS red   NIEUWE OPDRACHT:Ophalen bestellingen @HQ   
+[15/10/2022 06:40:15] [MrFire/Vossen/Echo2] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Echo] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Delta2] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Bravo] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Foxtrot] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Delta] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Alpha] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Bravo2] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Charlie] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Foxtrot2] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 06:40:15] [MrFire/Vossen/Charlie2] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Alpha] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Bravo] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Bravo2] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Charlie] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Charlie2] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Delta] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Delta2] 0
+[15/10/2022 06:40:27] [MrFire/Vossen/Echo] 0
+[15/10/2022 06:40:28] [MrFire/Vossen/Echo2] 0
+[15/10/2022 06:40:28] [MrFire/Vossen/Foxtrot] 0
+[15/10/2022 06:40:28] [MrFire/Vossen/Foxtrot2] 0
+[15/10/2022 06:40:28] [MrFire/16Seg/Scroll]  Alpha is rood Bravo is rood Charlie is rood Delta is rood Echo is rood Foxtrot is rood 
+[15/10/2022 06:41:57] [MrFire/Vossen/Alpha] 2
+[15/10/2022 06:41:59] [MrFire/Vossen/Alpha2] 2
+[15/10/2022 06:42:03] [MrFire/Vossen/Bravo] 2
+[15/10/2022 06:42:05] [MrFire/Vossen/Bravo2] 2
+[15/10/2022 06:42:08] [MrFire/Vossen/Charlie] 2
+[15/10/2022 06:42:10] [MrFire/Vossen/Charlie2] 2
+[15/10/2022 06:42:13] [MrFire/Vossen/Delta] 2
+[15/10/2022 06:42:16] [MrFire/Vossen/Delta2] 2
+[15/10/2022 06:42:20] [MrFire/Vossen/Echo] 2
+[15/10/2022 06:42:23] [MrFire/Vossen/Echo2] 2
+[15/10/2022 06:42:26] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 06:42:29] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 06:43:10] [MrFire/Vossen/Alpha] 0
+[15/10/2022 06:43:11] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 06:43:11] [MrFire/Vossen/Bravo] 0
+[15/10/2022 06:43:12] [MrFire/Vossen/Bravo2] 0
+[15/10/2022 06:43:12] [MrFire/Vossen/Charlie] 0
+[15/10/2022 06:43:12] [MrFire/Vossen/Charlie2] 0
+[15/10/2022 06:43:12] [MrFire/Vossen/Delta] 0
+[15/10/2022 06:43:12] [MrFire/Vossen/Delta2] 0
+[15/10/2022 06:43:12] [MrFire/Vossen/Echo] 0
+[15/10/2022 06:43:12] [MrFire/Vossen/Echo2] 0
+[15/10/2022 06:43:13] [MrFire/Vossen/Foxtrot] 0
+[15/10/2022 06:43:13] [MrFire/Vossen/Foxtrot2] 0
+[15/10/2022 06:43:13] [MrFire/16Seg/Scroll]  Alpha is rood Bravo is rood Charlie is rood Delta is rood Echo is rood Foxtrot is rood 
+[15/10/2022 06:46:12] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 06:49:13] [MrFire/16Seg/Clock] 1
+[15/10/2022 07:44:44] [MrFire/Vossen/Echo2] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Echo] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Delta2] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Bravo] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Foxtrot] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Delta] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Alpha] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Bravo2] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Charlie] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Foxtrot2] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 07:44:44] [MrFire/Vossen/Charlie2] 0
+[15/10/2022 07:44:55] [MrFire/Vossen/Alpha] 0
+[15/10/2022 07:44:55] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 07:44:55] [MrFire/Vossen/Bravo] 0
+[15/10/2022 07:44:56] [MrFire/Vossen/Bravo2] 0
+[15/10/2022 07:44:56] [MrFire/Vossen/Charlie] 0
+[15/10/2022 07:44:56] [MrFire/Vossen/Charlie2] 0
+[15/10/2022 07:44:56] [MrFire/Vossen/Delta] 0
+[15/10/2022 07:44:57] [MrFire/Vossen/Delta2] 0
+[15/10/2022 07:44:58] [MrFire/Vossen/Echo] 0
+[15/10/2022 07:44:58] [MrFire/Vossen/Echo2] 0
+[15/10/2022 07:44:58] [MrFire/Vossen/Foxtrot] 0
+[15/10/2022 07:44:58] [MrFire/Vossen/Foxtrot2] 0
+[15/10/2022 07:44:58] [MrFire/16Seg/Scroll]  Alpha is rood Bravo is rood Charlie is rood Delta is rood Echo is rood Foxtrot is rood 
+[15/10/2022 07:45:16] [MrFire/Vossen/Alpha] 1
+[15/10/2022 07:46:37] [MrFire/Vossen/Startup] Wemos Online
+[15/10/2022 07:47:56] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 07:50:57] [MrFire/16Seg/Clock] 1
+[15/10/2022 09:28:59] [MrFire/Vossen/Echo2] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Echo] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Delta2] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Bravo] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Foxtrot] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Delta] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Alpha] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Bravo2] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Charlie] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Foxtrot2] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 09:28:59] [MrFire/Vossen/Charlie2] 0
+[15/10/2022 09:30:30] [MrFire/Vossen/Alpha] 0
+[15/10/2022 09:30:30] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 09:31:27] [MrFire/Vossen/Alpha] 0
+[15/10/2022 09:31:28] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 09:32:30] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 09:32:30] [MrFire/Vossen/Alpha] 0
+[15/10/2022 09:33:01] [MrFire/Vossen/Alpha] 0
+[15/10/2022 09:33:02] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 09:33:39] [MrFire/Vossen/Alpha] 0
+[15/10/2022 09:33:39] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 09:34:44] [MrFire/Vossen/Alpha] 0
+[15/10/2022 09:34:44] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 09:41:38] [MrFire/Vossen/Alpha] 2
+[15/10/2022 09:41:38] [MrFire/Vossen/Alpha2] 2
+[15/10/2022 09:41:38] [MrFire/Vossen/Bravo] 2
+[15/10/2022 09:41:38] [MrFire/Vossen/Bravo2] 2
+[15/10/2022 09:41:39] [MrFire/Vossen/Charlie] 2
+[15/10/2022 09:41:40] [MrFire/Vossen/Charlie2] 2
+[15/10/2022 09:41:40] [MrFire/Vossen/Delta] 2
+[15/10/2022 09:41:40] [MrFire/Vossen/Delta2] 2
+[15/10/2022 09:41:40] [MrFire/Vossen/Echo] 2
+[15/10/2022 09:41:40] [MrFire/Vossen/Echo2] 2
+[15/10/2022 09:41:40] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 09:41:40] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 09:41:40] [MrFire/16Seg/Scroll]  Alpha is groen Bravo is groen Charlie is groen Delta is groen Echo is groen Foxtrot is groen 
+[15/10/2022 09:44:39] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 09:47:40] [MrFire/16Seg/Clock] 1
+[15/10/2022 10:13:46] [MrFire/Vossen/Alpha] 2
+[15/10/2022 10:13:47] [MrFire/Vossen/Alpha2] 2
+[15/10/2022 10:13:48] [MrFire/Vossen/Bravo] 2
+[15/10/2022 10:13:48] [MrFire/Vossen/Bravo2] 2
+[15/10/2022 10:13:48] [MrFire/Vossen/Charlie] 2
+[15/10/2022 10:13:48] [MrFire/Vossen/Delta] 2
+[15/10/2022 10:13:49] [MrFire/Vossen/Charlie2] 2
+[15/10/2022 10:13:49] [MrFire/Vossen/Delta2] 2
+[15/10/2022 10:13:49] [MrFire/Vossen/Echo] 1
+[15/10/2022 10:13:49] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 10:13:49] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 10:13:49] [MrFire/Vossen/Echo2] 1
+[15/10/2022 10:13:50] [MrFire/16Seg/Scroll]  Alpha is groen Bravo is groen Charlie is groen Delta is groen Echo is oranje Foxtrot is groen 
+[15/10/2022 10:16:47] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 10:19:47] [MrFire/16Seg/Clock] 1
+[15/10/2022 10:45:38] [MrFire/Vossen/Alpha] 2
+[15/10/2022 10:45:38] [MrFire/Vossen/Alpha2] 2
+[15/10/2022 10:45:39] [MrFire/Vossen/Bravo] 1
+[15/10/2022 10:45:39] [MrFire/Vossen/Bravo2] 1
+[15/10/2022 10:45:40] [MrFire/Vossen/Charlie] 2
+[15/10/2022 10:45:40] [MrFire/Vossen/Charlie2] 2
+[15/10/2022 10:45:40] [MrFire/Vossen/Delta] 2
+[15/10/2022 10:45:40] [MrFire/Vossen/Delta2] 2
+[15/10/2022 10:45:40] [MrFire/Vossen/Echo] 2
+[15/10/2022 10:45:40] [MrFire/Vossen/Echo2] 2
+[15/10/2022 10:45:41] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 10:45:41] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 10:45:41] [MrFire/16Seg/Scroll]  Alpha is groen Bravo is oranje Charlie is groen Delta is groen Echo is groen Foxtrot is groen 
+[15/10/2022 10:48:39] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 10:50:10] [MrFire/Vossen/Alpha] 2
+[15/10/2022 10:50:10] [MrFire/Vossen/Alpha2] 2
+[15/10/2022 10:50:10] [MrFire/Vossen/Bravo] 1
+[15/10/2022 10:50:10] [MrFire/Vossen/Bravo2] 1
+[15/10/2022 10:50:10] [MrFire/Vossen/Charlie] 2
+[15/10/2022 10:50:10] [MrFire/Vossen/Charlie2] 2
+[15/10/2022 10:50:10] [MrFire/Vossen/Delta] 2
+[15/10/2022 10:50:10] [MrFire/Vossen/Echo] 2
+[15/10/2022 10:50:10] [MrFire/Vossen/Echo2] 2
+[15/10/2022 10:50:11] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 10:50:11] [MrFire/Vossen/Delta2] 2
+[15/10/2022 10:50:11] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 10:50:11] [MrFire/16Seg/Scroll]  Alpha is groen Bravo is oranje Charlie is groen Delta is groen Echo is groen Foxtrot is groen 
+[15/10/2022 10:50:52] [MrFire/Vossen/Alpha] 2
+[15/10/2022 10:50:52] [MrFire/Vossen/Alpha2] 2
+[15/10/2022 10:50:52] [MrFire/Vossen/Bravo] 1
+[15/10/2022 10:50:52] [MrFire/Vossen/Bravo2] 1
+[15/10/2022 10:50:52] [MrFire/Vossen/Charlie] 2
+[15/10/2022 10:50:52] [MrFire/Vossen/Charlie2] 2
+[15/10/2022 10:50:52] [MrFire/Vossen/Delta] 2
+[15/10/2022 10:50:52] [MrFire/Vossen/Delta2] 2
+[15/10/2022 10:50:52] [MrFire/Vossen/Echo] 2
+[15/10/2022 10:50:52] [MrFire/Vossen/Echo2] 2
+[15/10/2022 10:50:52] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 10:50:53] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 10:50:53] [MrFire/16Seg/Scroll]  Alpha is groen Bravo is oranje Charlie is groen Delta is groen Echo is groen Foxtrot is groen 
+[15/10/2022 10:51:11] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 10:51:29] [MrFire/16Seg/Clock] 1
+[15/10/2022 10:51:44] [MrFire/Vossen/Alpha] 2
+[15/10/2022 10:51:45] [MrFire/Vossen/Alpha2] 2
+[15/10/2022 10:51:45] [MrFire/Vossen/Bravo] 1
+[15/10/2022 10:51:45] [MrFire/Vossen/Bravo2] 1
+[15/10/2022 10:51:45] [MrFire/Vossen/Charlie] 2
+[15/10/2022 10:51:45] [MrFire/Vossen/Charlie2] 2
+[15/10/2022 10:51:45] [MrFire/Vossen/Delta] 2
+[15/10/2022 10:51:45] [MrFire/Vossen/Delta2] 2
+[15/10/2022 10:51:45] [MrFire/Vossen/Echo] 2
+[15/10/2022 10:51:45] [MrFire/Vossen/Echo2] 2
+[15/10/2022 10:51:45] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 10:51:45] [MrFire/16Seg/Scroll]  Alpha is groen Bravo is oranje Charlie is groen Delta is groen Echo is groen Foxtrot is groen 
+[15/10/2022 10:51:46] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 10:51:57] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 10:52:15] [MrFire/16Seg/Clock] 1
+[15/10/2022 11:05:58] [MrFire/Vossen/Bravo] 2
+[15/10/2022 11:05:58] [MrFire/Vossen/Bravo2] 2
+[15/10/2022 11:05:58] [MrFire/16Seg/Scroll]  Bravo is groen 
+[15/10/2022 11:06:12] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 11:06:30] [MrFire/16Seg/Clock] 1
+[15/10/2022 11:12:09] [MrFire/Vossen/Foxtrot] 1
+[15/10/2022 11:12:09] [MrFire/Vossen/Foxtrot2] 1
+[15/10/2022 11:12:09] [MrFire/16Seg/Scroll]  Foxtrot is oranje 
+[15/10/2022 11:12:22] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 11:12:40] [MrFire/16Seg/Clock] 1
+[15/10/2022 11:24:28] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 11:24:28] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 11:24:29] [MrFire/16Seg/Scroll]  Foxtrot is groen 
+[15/10/2022 11:24:41] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 11:24:59] [MrFire/16Seg/Clock] 1
+[15/10/2022 11:35:56] [MrFire/Vossen/Alpha2] 0
+[15/10/2022 11:35:56] [MrFire/16Seg/Scroll]  Alpha is rood 
+[15/10/2022 11:35:56] [MrFire/Vossen/Alpha] 0
+[15/10/2022 11:36:09] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 11:36:27] [MrFire/16Seg/Clock] 1
+[15/10/2022 12:07:08] [MrFire/Vossen/Echo] 1
+[15/10/2022 12:07:08] [MrFire/Vossen/Echo2] 1
+[15/10/2022 12:07:08] [MrFire/16Seg/Scroll]  Echo is oranje 
+[15/10/2022 12:07:20] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 12:07:38] [MrFire/16Seg/Clock] 1
+[15/10/2022 12:12:23] [MrFire/Vossen/Delta] 1
+[15/10/2022 12:12:23] [MrFire/Vossen/Delta2] 1
+[15/10/2022 12:12:23] [MrFire/16Seg/Scroll]  Delta is oranje 
+[15/10/2022 12:12:35] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 12:12:54] [MrFire/16Seg/Clock] 1
+[15/10/2022 12:19:05] [MrFire/Vossen/Startup] Wemos Online
+[15/10/2022 12:29:15] [MrFire/Vossen/Alpha] 2
+[15/10/2022 12:29:15] [MrFire/Vossen/Alpha2] 2
+[15/10/2022 12:29:15] [MrFire/Vossen/Bravo] 2
+[15/10/2022 12:29:15] [MrFire/Vossen/Bravo2] 2
+[15/10/2022 12:29:15] [MrFire/Vossen/Charlie] 2
+[15/10/2022 12:29:15] [MrFire/Vossen/Charlie2] 2
+[15/10/2022 12:29:15] [MrFire/Vossen/Delta] 1
+[15/10/2022 12:29:15] [MrFire/Vossen/Delta2] 1
+[15/10/2022 12:29:16] [MrFire/Vossen/Echo] 1
+[15/10/2022 12:29:16] [MrFire/Vossen/Echo2] 1
+[15/10/2022 12:29:17] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 12:29:17] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 12:29:17] [MrFire/16Seg/Scroll]  Alpha is groen Bravo is groen Charlie is groen Delta is oranje Echo is oranje Foxtrot is groen 
+[15/10/2022 12:29:29] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 12:29:47] [MrFire/16Seg/Clock] 1
+[15/10/2022 12:31:11] [MrFire/Vossen/Delta] 2
+[15/10/2022 12:31:11] [MrFire/Vossen/Delta2] 2
+[15/10/2022 12:31:11] [MrFire/16Seg/Scroll]  Delta is groen 
+[15/10/2022 12:31:23] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 12:31:43] [MrFire/16Seg/Clock] 1
+[15/10/2022 12:35:21] [MrFire/Vossen/Echo] 2
+[15/10/2022 12:35:21] [MrFire/Vossen/Echo2] 2
+[15/10/2022 12:35:21] [MrFire/16Seg/Scroll]  Echo is groen 
+[15/10/2022 12:35:33] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 12:35:51] [MrFire/16Seg/Clock] 1
+[15/10/2022 12:59:06] [MrFire/Vossen/Foxtrot] 1
+[15/10/2022 12:59:06] [MrFire/Vossen/Foxtrot2] 1
+[15/10/2022 12:59:07] [MrFire/16Seg/Scroll]  Foxtrot is oranje 
+[15/10/2022 12:59:13] [MrFire/Vossen/Foxtrot] 0
+[15/10/2022 12:59:13] [MrFire/Vossen/Foxtrot2] 0
+[15/10/2022 12:59:13] [MrFire/16Seg/Scroll]  Foxtrot is rood 
+[15/10/2022 12:59:26] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 12:59:44] [MrFire/16Seg/Clock] 1
+[15/10/2022 13:00:17] [MrFire/Vossen/Echo] 0
+[15/10/2022 13:00:17] [MrFire/Vossen/Echo2] 0
+[15/10/2022 13:00:18] [MrFire/16Seg/Scroll]  Echo is rood 
+[15/10/2022 13:00:34] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 13:00:52] [MrFire/16Seg/Clock] 1
+[15/10/2022 13:28:28] [MrFire/Vossen/Foxtrot2] 2
+[15/10/2022 13:28:29] [MrFire/Vossen/Foxtrot] 2
+[15/10/2022 13:28:30] [MrFire/16Seg/Scroll]  Foxtrot is groen 
+[15/10/2022 13:28:42] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 13:29:01] [MrFire/16Seg/Clock] 1
+[15/10/2022 13:35:34] [MrFire/Vossen/Echo] 2
+[15/10/2022 13:35:35] [MrFire/Vossen/Echo2] 2
+[15/10/2022 13:35:35] [MrFire/16Seg/Scroll]  Echo is groen 
+[15/10/2022 13:35:47] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 13:36:05] [MrFire/16Seg/Clock] 1
+[15/10/2022 14:30:51] [MrFire/Vossen/Foxtrot2] 1
+[15/10/2022 14:30:51] [MrFire/Vossen/Foxtrot] 1
+[15/10/2022 14:30:51] [MrFire/16Seg/Scroll]  Foxtrot is oranje 
+[15/10/2022 14:31:03] [MrFire/16Seg/Input] SCORE:000
+[15/10/2022 14:31:21] [MrFire/16Seg/Clock] 1
+[16/10/2022 10:00:20] [MrFire/Vossen/Echo2] 2
+[16/10/2022 10:00:20] [MrFire/Vossen/Echo] 2
+[16/10/2022 10:00:20] [MrFire/Vossen/Delta2] 2
+[16/10/2022 10:00:20] [MrFire/Vossen/Bravo] 2
+[16/10/2022 10:00:20] [MrFire/Vossen/Foxtrot] 0
+[16/10/2022 10:00:20] [MrFire/Vossen/Delta] 2
+[16/10/2022 10:00:20] [MrFire/Vossen/Alpha] 0
+[16/10/2022 10:00:20] [MrFire/Vossen/Bravo2] 2
+[16/10/2022 10:00:20] [MrFire/Vossen/Charlie] 2
+[16/10/2022 10:00:20] [MrFire/Vossen/Foxtrot2] 0
+[16/10/2022 10:00:20] [MrFire/Vossen/Alpha2] 0
+[16/10/2022 10:00:20] [MrFire/Vossen/Charlie2] 2
