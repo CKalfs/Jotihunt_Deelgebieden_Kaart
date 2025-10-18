@@ -29,6 +29,10 @@ int EchoData = 0;
 int Echo2Data = 0;
 int FoxtrotData = 0;
 int Foxtrot2Data = 0;
+int GolfData = 0;
+int GolfData2 = 0;
+int HotelData = 0;
+int HotelData2 = 0;
 
 //Pinouts
 const int Alpha = 2;
@@ -43,6 +47,10 @@ const int Echo = 26;
 const int Echo2 = 23;
 const int Foxtrot = 33;
 const int Foxtrot2 = 25;
+const int GolfData =  ; 
+const int GolfData2 =  ; 
+const int HotelData =  ; 
+const int HotelData2 = ;
 
 
 const int red = 27;
@@ -75,6 +83,12 @@ void setup() {
   pinMode(Echo2, OUTPUT);
   pinMode(Foxtrot, OUTPUT);
   pinMode(Foxtrot2, OUTPUT);
+  pinMode(Golf, OUTPUT);
+  pinMode(Golf2, OUTPUT);
+  pinMode(Hotel, OUTPUT);
+  pinmode(Hotel2, OUTPUT);
+
+
   pinMode(red, OUTPUT);
   pinMode(blue, OUTPUT);
   pinMode(green, OUTPUT);
@@ -91,6 +105,10 @@ void setup() {
   digitalWrite(Echo2, HIGH);
   digitalWrite(Foxtrot, HIGH);
   digitalWrite(Foxtrot2, HIGH);
+  digitalWrite(Golf, HIGH);
+  digitalWrite(Golf2, HIGH);
+  digitalWrite(Hotel, HIGH);
+  digitalWrite(Hotel2, HIGH);
   
 	Serial.begin(115200);
 	
@@ -228,6 +246,18 @@ void callback(char* topic, byte* payload, unsigned int length)
 		FoxtrotData = ((int)*payload) - '0';
 		Serial.print(".");
 	} else if(strcmp(topic, "MrFire/Vossen/Foxtrot2") == 0){
+		Foxtrot2Data = ((int)*payload) - '0';
+		Serial.print(".");
+	}else if(strcmp(topic, "MrFire/Vossen/Golf") == 0){
+		Foxtrot2Data = ((int)*payload) - '0';
+		Serial.print(".");
+	}else if(strcmp(topic, "MrFire/Vossen/Golf2") == 0){
+		Foxtrot2Data = ((int)*payload) - '0';
+		Serial.print(".");
+	}else if(strcmp(topic, "MrFire/Vossen/Hotel") == 0){
+		Foxtrot2Data = ((int)*payload) - '0';
+		Serial.print(".");
+	}else if(strcmp(topic, "MrFire/Vossen/Hotel2") == 0){
 		Foxtrot2Data = ((int)*payload) - '0';
 		Serial.print(".");
 	}
@@ -486,6 +516,88 @@ void PrintLeds(){
   }
   digitalWrite(Foxtrot2, HIGH);
 
+  //Write Golf
+  digitalWrite(Golf, LOW);
+  if (GolfData == 0){
+    digitalWrite(red, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(red, LOW);
+  }else if (GolfData == 2){
+    digitalWrite(green, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(green, LOW);
+  }else if (GolfData == 1){
+    digitalWrite(green, HIGH);
+    digitalWrite(red, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(red, LOW);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(green, LOW);
+  }
+  digitalWrite(Golf, HIGH);
+
+}
+  //Write Golf2
+  digitalWrite(Golf2, LOW);
+  if (Golf2Data == 0){
+    digitalWrite(red, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(red, LOW);
+  }else if (Golf2Data == 2){
+    digitalWrite(green, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(green, LOW);
+  }else if (Golf2Data == 1){
+    digitalWrite(green, HIGH);
+    digitalWrite(red, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(red, LOW);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(green, LOW);
+  }
+  digitalWrite(Golf2, HIGH);
+
+}
+  //Write Hotel
+  digitalWrite(Hotel, LOW);
+  if (HotelData == 0){
+    digitalWrite(red, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(red, LOW);
+  }else if (HotelData == 2){
+    digitalWrite(green, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(green, LOW);
+  }else if (HotelData == 1){
+    digitalWrite(green, HIGH);
+    digitalWrite(red, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(red, LOW);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(green, LOW);
+  }
+  digitalWrite(Hotel, HIGH);
+
+}
+  //Write Hotel2
+  digitalWrite(Hotel2, LOW);
+  if (Hotel2Data == 0){
+    digitalWrite(red, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(red, LOW);
+  }else if (Hotel2Data == 2){
+    digitalWrite(green, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(green, LOW);
+  }else if (Hotel2Data == 1){
+    digitalWrite(green, HIGH);
+    digitalWrite(red, HIGH);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(red, LOW);
+    delayMicroseconds(PinOnDelayValue);
+    digitalWrite(green, LOW);
+  }
+  digitalWrite(Hotel2, HIGH);
 }
 
 
